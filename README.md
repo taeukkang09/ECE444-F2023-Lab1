@@ -9,3 +9,7 @@
 ### Activity 2:
 
 ![Screenshot of dynamic user route](/screenshots/activity2.png)
+
+### Activity 3:
+
+![Screenshot of Chapter 3](/screenshots/activity3.png)
