@@ -13,3 +13,10 @@
 ### Activity 3:
 
 ![Screenshot of Chapter 3](/screenshots/activity3.png)
+
+### Activity 4:
+
+![Screenshot of initial stage](/screenshots/stranger.png)
+![Screenshot of step 2](/screenshots/step2.png)
+![Screenshot of error message](/screenshots/step3.png)
+![Screenshot of non-UofT email](/screenshots/step4.png)
