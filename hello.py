@@ -27,7 +27,7 @@ def index():
             flash("Looks like you have changed your email!")
 
         session['name'] = form.name.data 
-        session['email'] = form.email.data if "utoronto" in form.email.data else None
+        session['email'] = form.email.data
             
         return redirect(url_for('index')) # When browser receives a redirect req, it issues a GET request to specificed URL. This way we never end with a POST request. 
 
